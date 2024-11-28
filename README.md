@@ -1,6 +1,7 @@
-# Quadratic Function Grapher
+# Quadratic Function Graphe
 
-https://www.youtube.com/watch?v=rQsrGCDylNE&list=PLTFdL94Ol01x8l2244NtCavPtGMDYX0O3
+![image](https://github.com/user-attachments/assets/5041782a-a7f9-4e0d-adeb-c625340e528d)
+
 
 ## Info
 
