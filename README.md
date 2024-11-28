@@ -1,4 +1,4 @@
-# Quadratic Function Graphe
+# Quadratic Function Grapher
 
 ![image](https://github.com/user-attachments/assets/5041782a-a7f9-4e0d-adeb-c625340e528d)
 
